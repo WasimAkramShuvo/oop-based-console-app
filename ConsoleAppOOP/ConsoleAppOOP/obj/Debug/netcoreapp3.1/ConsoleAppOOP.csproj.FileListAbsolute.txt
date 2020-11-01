@@ -1,0 +1,13 @@
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.csprojAssemblyReference.cache
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.AssemblyInfoInputs.cache
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.AssemblyInfo.cs
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.csproj.CoreCompileInputs.cache
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.exe
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.deps.json
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.runtimeconfig.json
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.runtimeconfig.dev.json
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.dll
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.pdb
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.dll
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.pdb
+D:\Office\OOP (Console App)\oop-based-console-app\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.genruntimeconfig.cache
