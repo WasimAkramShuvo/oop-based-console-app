@@ -19,6 +19,7 @@ namespace ConsoleAppOOP
             set { _radius = value; }
         }
 
+        //override
         public override float CalculateArea()
         {
             return (float)3.14 * _radius * _radius;

@@ -20,7 +20,6 @@ namespace ConsoleAppOOP
             Print(aRectangle);
             Print(aSquare);
 
-
         }
         static void Print (Shape shape)
         {
